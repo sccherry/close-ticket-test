@@ -7,3 +7,4 @@ A repo to test [Github's automatic ticket closing feature](https://help.github.c
 3. PR merges directly into master and has the keywords in the commit message.
 4. PR merges first into develop, then another PR merges into master and has the keywords in the PR description.
 5. PR merges first into develop, then another PR merges into master and has the keywords in the PR comment.
+6. PR merges first into develop, then another PR merges into master and has the keywords in the commit message.
